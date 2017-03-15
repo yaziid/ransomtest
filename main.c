@@ -8,7 +8,7 @@ char * extensions[TAILLE] = {"bat", "pdf", "txt", "doc", "docx", "xls", "xlsx", 
 
 HANDLE hConsole;
 
-HWND GetConsoleHwnd(void) // Merci google :D !
+HWND GetConsoleHwnd(void)
 {
        #define MY_BUFSIZE 1024
        HWND hwndFound;
