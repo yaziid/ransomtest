@@ -1,5 +1,5 @@
-//Utilisation personnel ou educatif seulement !
 /*
+       Utilisation personnel ou educatif seulement !
        Cette version est sécurisé ! Enlever tous les commentaires dans ce code pour que le payload soit activer !
 */
 
