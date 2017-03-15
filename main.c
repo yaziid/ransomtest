@@ -1,3 +1,5 @@
+//Utilisation personnel ou educatif seulement !
+
 #include <windows.h>
 #include <stdio.h>
 
